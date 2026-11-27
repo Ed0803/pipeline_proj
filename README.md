@@ -37,3 +37,11 @@ this is where the CI and CD development comes in.
 
 in the ci-cd.yml file, we made sure to account for 
 
+### Final Result 
+
+got the hash code at the end for the repo! 
+
+The delivery and depoyment worked with the pipeline -> YAML and DOCKER importance.
+
+![alt text](image-1.png)
+
